@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01" />
+    <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
+      <change afterPath="$PROJECT_DIR$/src/Week1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1/HelloWorldGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/CelsiusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/CharacterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/CoinCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/DivisibleBy9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/DivisibleBy9Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/ErrorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/MathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Mi2Km.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Slogan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/TempConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab01/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/Clock.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +50,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CelsiusToFahrenheit.executor": "Run",
+    "Application.Change.executor": "Run",
+    "Application.CharacterDemo.executor": "Run",
     "Application.Clock.executor": "Run",
+    "Application.CoinCalculator.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DivisibleBy9.executor": "Run",
+    "Application.DivisibleBy9Hard.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HelloWorldGUI.executor": "Run",
+    "Application.MathDemo.executor": "Run",
+    "Application.Mi2Km.executor": "Run",
+    "Application.Slogan.executor": "Run",
+    "Application.TempConverter.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -48,13 +78,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab01.Clock" />
+  <component name="RunManager" selected="Application.DivisibleBy9Hard">
+    <configuration name="CelsiusToFahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.CelsiusToFahrenheit" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab01.*" />
+          <option name="PATTERN" value="Week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,9 +92,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DivisibleBy9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.DivisibleBy9" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisibleBy9Hard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.DivisibleBy9Hard" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mi2Km" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Mi2Km" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.TempConverter" />
+      <module name="Programming Methodology" />
+      <option name="PROGRAM_PARAMETERS" value="32" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CelsiusToFahrenheit" />
+      <item itemvalue="Application.DivisibleBy9" />
+      <item itemvalue="Application.DivisibleBy9Hard" />
+      <item itemvalue="Application.Mi2Km" />
+      <item itemvalue="Application.TempConverter" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Clock" />
+        <item itemvalue="Application.DivisibleBy9Hard" />
+        <item itemvalue="Application.DivisibleBy9" />
+        <item itemvalue="Application.Mi2Km" />
+        <item itemvalue="Application.TempConverter" />
+        <item itemvalue="Application.CelsiusToFahrenheit" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +178,8 @@
       <option name="presentableId" value="Default" />
       <updated>1725628404454</updated>
       <workItem from="1725628405977" duration="1133000" />
-      <workItem from="1725629561183" duration="1624000" />
+      <workItem from="1725629561183" duration="1922000" />
+      <workItem from="1725874739250" duration="10977000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
