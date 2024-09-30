@@ -1,4 +1,4 @@
-package Week4_Christmas;
+package Week4.Christmas;
 
 import java.time.LocalDate;
 import java.time.Period;

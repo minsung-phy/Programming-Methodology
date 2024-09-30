@@ -1,4 +1,4 @@
-package Week4_HelloWorld;
+package Week4.HelloWorld;
 
 public class Model {
     String createGreetings() {

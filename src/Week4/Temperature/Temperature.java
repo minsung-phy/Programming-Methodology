@@ -1,6 +1,6 @@
-package Week4_newton;
+package Week4.Temperature;
 
-public class Newton {
+public class Temperature {
     public static void main(String[] args) {
         Model m = new Model();
         View v = new View();

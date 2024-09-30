@@ -1,4 +1,4 @@
-package Week4_newton;
+package Week4.newton;
 
 import javax.swing.*;
 import java.text.DecimalFormat;

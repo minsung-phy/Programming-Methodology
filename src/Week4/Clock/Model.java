@@ -1,4 +1,4 @@
-package Week4_Clock;
+package Week4.Clock;
 
 import java.time.LocalTime;
 

@@ -5,27 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/src/Week4_Christmas/Christmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Christmas/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Christmas/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Christmas/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Clock/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Clock/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Clock/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Clock/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_HelloWorld/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_HelloWorld/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_HelloWorld/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_HelloWorld/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Temperature/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Temperature/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Temperature/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_Temperature/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_newton/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_newton/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_newton/Newton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week4_newton/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week5/Canvas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Christmas/Christmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Christmas/Christmas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Christmas/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Christmas/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Christmas/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Christmas/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Christmas/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Christmas/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Clock/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Clock/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Clock/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Clock/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Clock/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Clock/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Clock/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Clock/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_HelloWorld/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/HelloWorld/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_HelloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/HelloWorld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_HelloWorld/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/HelloWorld/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_HelloWorld/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/HelloWorld/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Temperature/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Temperature/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Temperature/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Temperature/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Temperature/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Temperature/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_Temperature/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/Temperature/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_newton/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/newton/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_newton/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/newton/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_newton/Newton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/newton/Newton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week4_newton/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week4/newton/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Canvas.executor": "Run",
     "Application.CelsiusToFahrenheit.executor": "Run",
     "Application.Change.executor": "Run",
     "Application.CharacterDemo.executor": "Run",
@@ -89,13 +91,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Newton">
-    <configuration name="Christmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4_Christmas.Christmas" />
+  <component name="RunManager" selected="Application.Canvas">
+    <configuration name="Canvas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week5.Canvas" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week4_Christmas.*" />
+          <option name="PATTERN" value="Week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Christmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.Christmas.Christmas" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week4.Christmas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,24 +119,11 @@
       </method>
     </configuration>
     <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4_Clock.Clock" />
+      <option name="MAIN_CLASS_NAME" value="Week4.Clock.Clock" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week4_Clock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4_HelloWorld.HelloWorld" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week4_HelloWorld.*" />
+          <option name="PATTERN" value="Week4.Clock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
       </method>
     </configuration>
     <configuration name="Newton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4_newton.Newton" />
+      <option name="MAIN_CLASS_NAME" value="Week4.newton.Newton" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week4_newton.*" />
+          <option name="PATTERN" value="Week4.newton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +145,11 @@
       </method>
     </configuration>
     <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4_Temperature.Temperature" />
+      <option name="MAIN_CLASS_NAME" value="Week4.Temperature.Temperature" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week4_Temperature.*" />
+          <option name="PATTERN" value="Week4.Temperature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +158,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Canvas" />
       <item itemvalue="Application.Christmas" />
       <item itemvalue="Application.Clock" />
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Newton" />
       <item itemvalue="Application.Temperature" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Canvas" />
         <item itemvalue="Application.Newton" />
         <item itemvalue="Application.Christmas" />
         <item itemvalue="Application.Temperature" />
         <item itemvalue="Application.Clock" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +192,9 @@
       <workItem from="1725628405977" duration="1133000" />
       <workItem from="1725629561183" duration="1922000" />
       <workItem from="1725874739250" duration="14035000" />
-      <workItem from="1727059914247" duration="11374000" />
+      <workItem from="1727059914247" duration="12233000" />
+      <workItem from="1727151541628" duration="644000" />
+      <workItem from="1727663585149" duration="4820000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />

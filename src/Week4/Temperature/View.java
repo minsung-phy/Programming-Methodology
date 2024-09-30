@@ -1,4 +1,4 @@
-package Week4_Temperature;
+package Week4.Temperature;
 
 import javax.swing.*;
 import java.text.DecimalFormat;

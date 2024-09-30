@@ -1,4 +1,4 @@
-package Week4_newton;
+package Week4.newton;
 
 public class Model {
     double matof(double m, double a) {

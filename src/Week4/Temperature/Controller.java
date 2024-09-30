@@ -1,4 +1,4 @@
-package Week4_Temperature;
+package Week4.Temperature;
 
 public class Controller {
     void control(Model m, View v) {

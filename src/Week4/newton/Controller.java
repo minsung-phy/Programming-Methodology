@@ -1,4 +1,4 @@
-package Week4_newton;
+package Week4.newton;
 
 public class Controller {
     void control(Model m, View v) {
