@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/ClockWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/Contrived.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,9 @@
     "Application.Demo.executor": "Run",
     "Application.DivisibleBy9.executor": "Run",
     "Application.DivisibleBy9Hard.executor": "Run",
+    "Application.GrowingEgg1.executor": "Run",
+    "Application.GrowingEgg2.executor": "Run",
+    "Application.GrowingEgg3.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HelloWorldGUI.executor": "Run",
     "Application.MathDemo.executor": "Run",
@@ -76,33 +79,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Contrived">
-    <configuration name="Canvas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week5.Canvas" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Christmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.Christmas.Christmas" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week4.Christmas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GrowingEgg3">
     <configuration name="ClockWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week6.ClockWriter" />
       <module name="Programming Methodology" />
@@ -129,12 +106,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Newton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.newton.Newton" />
+    <configuration name="GrowingEgg1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg1" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week4.newton.*" />
+          <option name="PATTERN" value="Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrowingEgg2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg2" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrowingEgg3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg3" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,17 +148,17 @@
     <list>
       <item itemvalue="Application.ClockWriter" />
       <item itemvalue="Application.Contrived" />
-      <item itemvalue="Application.Canvas" />
-      <item itemvalue="Application.Christmas" />
-      <item itemvalue="Application.Newton" />
+      <item itemvalue="Application.GrowingEgg1" />
+      <item itemvalue="Application.GrowingEgg2" />
+      <item itemvalue="Application.GrowingEgg3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GrowingEgg3" />
+        <item itemvalue="Application.GrowingEgg2" />
+        <item itemvalue="Application.GrowingEgg1" />
         <item itemvalue="Application.Contrived" />
         <item itemvalue="Application.ClockWriter" />
-        <item itemvalue="Application.Canvas" />
-        <item itemvalue="Application.Newton" />
-        <item itemvalue="Application.Christmas" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +183,7 @@
       <workItem from="1727059914247" duration="12233000" />
       <workItem from="1727151541628" duration="644000" />
       <workItem from="1727663585149" duration="4916000" />
-      <workItem from="1728269156406" duration="4071000" />
+      <workItem from="1728269156406" duration="8402000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
