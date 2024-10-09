@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/GrowingEgg3_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,9 @@
     "Application.DivisibleBy9Hard.executor": "Run",
     "Application.GrowingEgg1.executor": "Run",
     "Application.GrowingEgg2.executor": "Run",
+    "Application.GrowingEgg2_2.executor": "Run",
     "Application.GrowingEgg3.executor": "Run",
+    "Application.GrowingEgg3_2.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HelloWorldGUI.executor": "Run",
     "Application.MathDemo.executor": "Run",
@@ -79,33 +80,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GrowingEgg3">
-    <configuration name="ClockWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.ClockWriter" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Contrived" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.Contrived" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GrowingEgg1">
     <configuration name="GrowingEgg1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg1" />
       <module name="Programming Methodology" />
@@ -132,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GrowingEgg2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg2_2" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GrowingEgg3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg3" />
       <module name="Programming Methodology" />
@@ -145,20 +133,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GrowingEgg3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg3_2" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ClockWriter" />
-      <item itemvalue="Application.Contrived" />
       <item itemvalue="Application.GrowingEgg1" />
       <item itemvalue="Application.GrowingEgg2" />
+      <item itemvalue="Application.GrowingEgg2_2" />
       <item itemvalue="Application.GrowingEgg3" />
+      <item itemvalue="Application.GrowingEgg3_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GrowingEgg3" />
-        <item itemvalue="Application.GrowingEgg2" />
         <item itemvalue="Application.GrowingEgg1" />
-        <item itemvalue="Application.Contrived" />
-        <item itemvalue="Application.ClockWriter" />
+        <item itemvalue="Application.GrowingEgg3_2" />
+        <item itemvalue="Application.GrowingEgg2_2" />
+        <item itemvalue="Application.GrowingEgg2" />
+        <item itemvalue="Application.GrowingEgg3" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +184,7 @@
       <workItem from="1727059914247" duration="12233000" />
       <workItem from="1727151541628" duration="644000" />
       <workItem from="1727663585149" duration="4916000" />
-      <workItem from="1728269156406" duration="8402000" />
+      <workItem from="1728269156406" duration="12470000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
