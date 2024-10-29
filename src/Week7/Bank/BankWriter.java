@@ -26,8 +26,8 @@ public class BankWriter extends JPanel {
         g.setColor(Color.white);
         g.fillRect(0, 0, WIDTH, HEIGHT + 22);
         g.setColor(Color.black);
-        int text_margin = 50;
-        int text_baseline = 50;
+        int text_margin = 50; // x
+        int text_baseline = 50; // y
         g.drawString(last_transaction, text_margin, text_baseline);
         g.drawString("잔액 = " + bank.getBalance() + "원", text_margin, text_baseline + 20);
     }

@@ -38,7 +38,7 @@ public class AccountController {
         }
         else
             writer.showTransaction("요청 오류");
-        this.processTransactions();
+        this.processTransactions(); // 재귀 호출 : 사용자가 Q를 입력할 때까지 자기 자신(AccountController)를 반복
     }
 
 

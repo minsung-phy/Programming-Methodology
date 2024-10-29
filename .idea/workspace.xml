@@ -5,18 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/src/Week7/Bank/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Bank/AccountManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Bank/BankReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/Bank/BankWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/DiceGame/Dealer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/DiceGame/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/DiceGame/DiceGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/DiceGame/GameBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/DiceGame/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/DiceGame/Registrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/AnimationWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BallWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BounceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BounceTheBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BoxWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/MovingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/TestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/AnimationWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BallWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BounceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BounceTheBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BoxWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/MovingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/TestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/AnimationWriters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BallWriters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BounceControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BounceTwoBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BoxWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/MovingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/TestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/AnimationWriters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BallWriters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BounceControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BounceTwoBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BoxWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/MovingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/TestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/ChessBoardWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/ClassManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/ClassManagement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/TextSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/Bank/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Bank/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7/Bank/BankWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Bank/BankWriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +75,8 @@
   "keyToString": {
     "Application.AccountManager.executor": "Run",
     "Application.BankAccount.executor": "Run",
+    "Application.BounceTheBall.executor": "Debug",
+    "Application.BounceTwoBalls.executor": "Run",
     "Application.Canvas.executor": "Run",
     "Application.CelsiusToFahrenheit.executor": "Run",
     "Application.Change.executor": "Run",
@@ -74,11 +103,15 @@
     "Application.Slogan.executor": "Run",
     "Application.TempConverter.executor": "Run",
     "Application.Temperature.executor": "Run",
+    "Application.TestModel.executor": "Run",
+    "Application.Week8.Ball1.BounceTheBall.executor": "Run",
+    "Application.Week8.Ball3.BounceTwoBalls.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Week8/Ball3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,13 +125,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DiceGame">
-    <configuration name="AccountManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week7.Bank.AccountManager" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Week8/Ball3" />
+      <recent name="$PROJECT_DIR$/src/Week8/Ball1" />
+      <recent name="$PROJECT_DIR$/src/Week8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Week8.Ball3.BounceTwoBalls">
+    <configuration name="BounceTheBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week8.Ball.BounceTheBall" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week7.Bank.*" />
+          <option name="PATTERN" value="Week8.Ball.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week7.Bank.BankAccount" />
+    <configuration name="BounceTwoBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week8.Ball2.BounceTwoBalls" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week7.Bank.*" />
+          <option name="PATTERN" value="Week8.Ball2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiceGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week7.DiceGame.DiceGame" />
+    <configuration name="TestModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week8.Ball.TestModel" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week7.DiceGame.*" />
+          <option name="PATTERN" value="Week8.Ball.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GrowingEgg1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg1" />
+    <configuration name="Week8.Ball1.BounceTheBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week8.Ball1.BounceTheBall" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week6.*" />
+          <option name="PATTERN" value="Week8.Ball1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GrowingEgg3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week6.GrowingEgg3_2" />
+    <configuration name="Week8.Ball3.BounceTwoBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week8.Ball3.BounceTwoBalls" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week6.*" />
+          <option name="PATTERN" value="Week8.Ball3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,19 +199,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AccountManager" />
-      <item itemvalue="Application.BankAccount" />
-      <item itemvalue="Application.DiceGame" />
-      <item itemvalue="Application.GrowingEgg1" />
-      <item itemvalue="Application.GrowingEgg3_2" />
+      <item itemvalue="Application.BounceTheBall" />
+      <item itemvalue="Application.BounceTwoBalls" />
+      <item itemvalue="Application.TestModel" />
+      <item itemvalue="Application.Week8.Ball1.BounceTheBall" />
+      <item itemvalue="Application.Week8.Ball3.BounceTwoBalls" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiceGame" />
-        <item itemvalue="Application.AccountManager" />
-        <item itemvalue="Application.BankAccount" />
-        <item itemvalue="Application.GrowingEgg1" />
-        <item itemvalue="Application.GrowingEgg3_2" />
+        <item itemvalue="Application.Week8.Ball3.BounceTwoBalls" />
+        <item itemvalue="Application.BounceTwoBalls" />
+        <item itemvalue="Application.Week8.Ball1.BounceTheBall" />
+        <item itemvalue="Application.BounceTheBall" />
+        <item itemvalue="Application.TestModel" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +237,9 @@
       <workItem from="1727151541628" duration="644000" />
       <workItem from="1727663585149" duration="4916000" />
       <workItem from="1728269156406" duration="13370000" />
-      <workItem from="1728965083891" duration="10004000" />
+      <workItem from="1728965083891" duration="10324000" />
+      <workItem from="1729438241307" duration="7255000" />
+      <workItem from="1730148285993" duration="10687000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
