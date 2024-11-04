@@ -5,45 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/AnimationWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BallWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BounceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BounceTheBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/BoxWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/MovingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball/TestModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/AnimationWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BallWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BounceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BounceTheBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/BoxWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/MovingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball1/TestModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/AnimationWriters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BallWriters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BounceControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BounceTwoBalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/BoxWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/MovingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball2/TestModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/AnimationWriters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BallWriters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BounceControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BounceTwoBalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/BoxWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/MovingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/Ball3/TestModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/ChessBoardWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/ClassManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/ClassManagement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/TextSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/PuzzleGame/PuzzleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/PuzzleGame/PuzzlePiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/PuzzleGame/PuzzleStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/PuzzleGame/PuzzleWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/PuzzleGame/SlidePuzzleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/VoteCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/Bank/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Bank/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week7/Bank/BankWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week7/Bank/BankWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/AnimationWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/AnimationWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/BallWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/BallWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/BounceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/BounceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/BounceTheBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/BounceTheBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/BoxWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/BoxWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/MovingBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/MovingBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball/TestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/TestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/AnimationWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/AnimationWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/BallWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/BallWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/BounceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/BounceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/BounceTheBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/BounceTheBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/BoxWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/BoxWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/MovingBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/MovingBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball1/TestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/TestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/AnimationWriters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/AnimationWriters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/BallWriters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/BallWriters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/BounceControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/BounceControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/BounceTwoBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/BounceTwoBalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/BoxWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/BoxWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/MovingBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/MovingBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball2/TestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/TestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/AnimationWriters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/AnimationWriters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/BallWriters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/BallWriters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/BounceControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/BounceControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/BounceTwoBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/BounceTwoBalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/BoxWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/BoxWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/MovingBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/MovingBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/Ball3/TestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/TestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/ChessBoardWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/ChessBoardWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/ClassManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/ClassManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/ClassManagement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/ClassManagement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week8/TextSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/TextSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,12 +104,15 @@
     "Application.MathDemo.executor": "Run",
     "Application.Mi2Km.executor": "Run",
     "Application.Newton.executor": "Run",
+    "Application.PuzzleStarter.executor": "Run",
     "Application.Slogan.executor": "Run",
     "Application.TempConverter.executor": "Run",
     "Application.Temperature.executor": "Run",
     "Application.TestModel.executor": "Run",
+    "Application.VoteCount.executor": "Run",
     "Application.Week8.Ball1.BounceTheBall.executor": "Run",
     "Application.Week8.Ball3.BounceTwoBalls.executor": "Run",
+    "Application.vvvvii.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -132,26 +139,13 @@
       <recent name="$PROJECT_DIR$/src/Week8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Week8.Ball3.BounceTwoBalls">
-    <configuration name="BounceTheBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week8.Ball.BounceTheBall" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week8.Ball.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PuzzleStarter">
     <configuration name="BounceTwoBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week8.Ball2.BounceTwoBalls" />
+      <option name="MAIN_CLASS_NAME" value="Week9.Ball2.BounceTwoBalls" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week8.Ball2.*" />
+          <option name="PATTERN" value="Week9.Ball2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week8.Ball.TestModel" />
+    <configuration name="PuzzleStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week10.PuzzleGame.PuzzleStarter" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week8.Ball.*" />
+          <option name="PATTERN" value="Week10.PuzzleGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week8.Ball1.BounceTheBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week8.Ball1.BounceTheBall" />
+    <configuration name="VoteCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week10.VoteCount" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week8.Ball1.*" />
+          <option name="PATTERN" value="Week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +179,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week8.Ball3.BounceTwoBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week8.Ball3.BounceTwoBalls" />
+    <configuration name="Week9.Ball3.BounceTwoBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week9.Ball3.BounceTwoBalls" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week8.Ball3.*" />
+          <option name="PATTERN" value="Week9.Ball3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vvvvii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week10.PuzzleGame.vvvvii" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week10.PuzzleGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,19 +206,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BounceTheBall" />
+      <item itemvalue="Application.PuzzleStarter" />
+      <item itemvalue="Application.VoteCount" />
+      <item itemvalue="Application.vvvvii" />
       <item itemvalue="Application.BounceTwoBalls" />
-      <item itemvalue="Application.TestModel" />
-      <item itemvalue="Application.Week8.Ball1.BounceTheBall" />
-      <item itemvalue="Application.Week8.Ball3.BounceTwoBalls" />
+      <item itemvalue="Application.Week9.Ball3.BounceTwoBalls" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Week8.Ball3.BounceTwoBalls" />
+        <item itemvalue="Application.PuzzleStarter" />
+        <item itemvalue="Application.vvvvii" />
+        <item itemvalue="Application.VoteCount" />
+        <item itemvalue="Application.Week9.Ball3.BounceTwoBalls" />
         <item itemvalue="Application.BounceTwoBalls" />
-        <item itemvalue="Application.Week8.Ball1.BounceTheBall" />
-        <item itemvalue="Application.BounceTheBall" />
-        <item itemvalue="Application.TestModel" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +246,8 @@
       <workItem from="1728269156406" duration="13370000" />
       <workItem from="1728965083891" duration="10324000" />
       <workItem from="1729438241307" duration="7255000" />
-      <workItem from="1730148285993" duration="10687000" />
+      <workItem from="1730148285993" duration="10837000" />
+      <workItem from="1730730168942" duration="10301000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
