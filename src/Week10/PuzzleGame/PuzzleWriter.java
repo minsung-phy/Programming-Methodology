@@ -13,7 +13,7 @@ public class PuzzleWriter extends JPanel {
         board = b;
         JFrame f = new JFrame();
         f.setTitle("PuzzleGame");
-        f.setSize(SIZE + 50, SIZE + 50);
+        f.setSize(SIZE + 50, SIZE + 75);
         f.getContentPane().add(this);
         f.setVisible(true);
         f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
