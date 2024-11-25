@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/src/Week11/Ball/ColorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/Ball/StarterColorBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/Ball/ThrobController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/Ball/ThrobFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/Ball/ThrobPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/Ball/ThrobbingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/PuzzleGame/PuzzleButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/PuzzleGame/PuzzleFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/PuzzleGame/PuzzlePiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/PuzzleGame/PuzzleStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/PuzzleGame/ResetButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week11/PuzzleGame/SlidePuzzleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/Puzzle/PuzzleButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/Puzzle/PuzzleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/Puzzle/PuzzlePiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/Puzzle/PuzzleStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/Puzzle/SlidePuzzleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/Puzzle/StartButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/String3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/String4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week12/String5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week10/PuzzleGame/PuzzleWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week10/PuzzleGame/PuzzleWriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,77 +44,85 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccountManager.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BounceTheBall.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BounceTwoBalls.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Canvas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CelsiusToFahrenheit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Change.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharacterDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Christmas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClockWriter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CoinCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Contrived.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiceGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivisibleBy9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivisibleBy9Hard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GrowingEgg1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GrowingEgg2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GrowingEgg2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GrowingEgg3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GrowingEgg3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorldGUI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mi2Km.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Newton.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PuzzleStarter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Slogan.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TempConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Temperature.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestModel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VoteCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Week8.Ball1.BounceTheBall.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Week8.Ball3.BounceTwoBalls.executor&quot;: &quot;Run&quot;,
-    &quot;Application.vvvvii.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Week8/Ball3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountManager.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.BounceTheBall.executor": "Debug",
+    "Application.BounceTwoBalls.executor": "Run",
+    "Application.Canvas.executor": "Run",
+    "Application.CelsiusToFahrenheit.executor": "Run",
+    "Application.Change.executor": "Run",
+    "Application.CharacterDemo.executor": "Run",
+    "Application.Christmas.executor": "Run",
+    "Application.Clock.executor": "Run",
+    "Application.ClockWriter.executor": "Run",
+    "Application.CoinCalculator.executor": "Run",
+    "Application.Contrived.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DiceGame.executor": "Run",
+    "Application.DivisibleBy9.executor": "Run",
+    "Application.DivisibleBy9Hard.executor": "Run",
+    "Application.GrowingEgg1.executor": "Run",
+    "Application.GrowingEgg2.executor": "Run",
+    "Application.GrowingEgg2_2.executor": "Run",
+    "Application.GrowingEgg3.executor": "Run",
+    "Application.GrowingEgg3_2.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HelloWorldGUI.executor": "Run",
+    "Application.MathDemo.executor": "Run",
+    "Application.Mi2Km.executor": "Run",
+    "Application.Newton.executor": "Run",
+    "Application.PuzzleStarter.executor": "Run",
+    "Application.Slogan.executor": "Run",
+    "Application.String4.executor": "Run",
+    "Application.String5.executor": "Run",
+    "Application.StringArr.executor": "Run",
+    "Application.StringArr2.executor": "Run",
+    "Application.StringArr3.executor": "Run",
+    "Application.TempConverter.executor": "Run",
+    "Application.Temperature.executor": "Run",
+    "Application.TestModel.executor": "Run",
+    "Application.VoteCount.executor": "Run",
+    "Application.Week11.Puzzle.PuzzleStarter.executor": "Run",
+    "Application.Week12.Puzzle.PuzzleStarter.executor": "Run",
+    "Application.Week8.Ball1.BounceTheBall.executor": "Run",
+    "Application.Week8.Ball3.BounceTwoBalls.executor": "Run",
+    "Application.vvvvii.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Week12",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Week12" />
       <recent name="$PROJECT_DIR$/src/Week8/Ball3" />
       <recent name="$PROJECT_DIR$/src/Week8/Ball1" />
       <recent name="$PROJECT_DIR$/src/Week8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PuzzleStarter">
-    <configuration name="BounceTwoBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week9.Ball2.BounceTwoBalls" />
+  <component name="RunManager" selected="Application.String5">
+    <configuration name="String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week12.String1" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week9.Ball2.*" />
+          <option name="PATTERN" value="Week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PuzzleStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week10.PuzzleGame.PuzzleStarter" />
+    <configuration name="String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week12.String2" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week10.PuzzleGame.*" />
+          <option name="PATTERN" value="Week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VoteCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week10.VoteCount" />
+    <configuration name="String3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week12.String3" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week10.*" />
+          <option name="PATTERN" value="Week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week9.Ball3.BounceTwoBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week9.Ball3.BounceTwoBalls" />
+    <configuration name="String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week12.String4" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week9.Ball3.*" />
+          <option name="PATTERN" value="Week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vvvvii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week10.PuzzleGame.vvvvii" />
+    <configuration name="String5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week12.String5" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week10.PuzzleGame.*" />
+          <option name="PATTERN" value="Week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,19 +183,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PuzzleStarter" />
-      <item itemvalue="Application.VoteCount" />
-      <item itemvalue="Application.vvvvii" />
-      <item itemvalue="Application.BounceTwoBalls" />
-      <item itemvalue="Application.Week9.Ball3.BounceTwoBalls" />
+      <item itemvalue="Application.String1" />
+      <item itemvalue="Application.String2" />
+      <item itemvalue="Application.String3" />
+      <item itemvalue="Application.String4" />
+      <item itemvalue="Application.String5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PuzzleStarter" />
-        <item itemvalue="Application.vvvvii" />
-        <item itemvalue="Application.VoteCount" />
-        <item itemvalue="Application.Week9.Ball3.BounceTwoBalls" />
-        <item itemvalue="Application.BounceTwoBalls" />
+        <item itemvalue="Application.String5" />
+        <item itemvalue="Application.String4" />
+        <item itemvalue="Application.String3" />
+        <item itemvalue="Application.String2" />
+        <item itemvalue="Application.String1" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +225,7 @@
       <workItem from="1729438241307" duration="7255000" />
       <workItem from="1730148285993" duration="10837000" />
       <workItem from="1730730168942" duration="12745000" />
-      <workItem from="1732106377421" duration="3719000" />
+      <workItem from="1732106377421" duration="8102000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
