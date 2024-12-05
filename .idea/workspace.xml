@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/in.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamProject/Payroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamProject/PayrollController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamProject/PayrollReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamProject/PayrollView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamProject/PayrollWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/CounterButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/CounterFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/CounterStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/ExitButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/CounterButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/CounterFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/CounterStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ColorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobbingBall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,10 +67,12 @@
     "Application.ClockWriter.executor": "Run",
     "Application.CoinCalculator.executor": "Run",
     "Application.Contrived.executor": "Run",
+    "Application.CounterStarter.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DiceGame.executor": "Run",
     "Application.DivisibleBy9.executor": "Run",
     "Application.DivisibleBy9Hard.executor": "Run",
+    "Application.Final_1st.Ch9.Counter_Border.CounterStarter.executor": "Run",
     "Application.GrowingEgg1.executor": "Run",
     "Application.GrowingEgg2.executor": "Run",
     "Application.GrowingEgg2_2.executor": "Run",
@@ -71,6 +86,7 @@
     "Application.Payroll.executor": "Run",
     "Application.PuzzleStarter.executor": "Run",
     "Application.Slogan.executor": "Run",
+    "Application.StarterBall.executor": "Run",
     "Application.String4.executor": "Run",
     "Application.String5.executor": "Run",
     "Application.StringArr.executor": "Run",
@@ -90,7 +106,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology",
+    "last_opened_file_path": "/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Final_1st/Ch9",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,23 +116,49 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.obiscr.chatgpt.settings.EasyCodeSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Final_1st/Ch9" />
+      <recent name="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/TeamProject" />
       <recent name="$PROJECT_DIR$/src/Week12" />
-      <recent name="$PROJECT_DIR$/src/Week8/Ball3" />
-      <recent name="$PROJECT_DIR$/src/Week8/Ball1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Payroll">
+  <component name="RunManager" selected="Application.StarterBall">
+    <configuration name="CounterStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final_1st.Ch9.Counter_Flow.CounterStarter" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Final_1st.Ch9.Counter_Flow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Final_1st.Ch9.Counter_Border.CounterStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final_1st.Ch9.Counter_Border.CounterStarter" />
+      <module name="Programming Methodology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Final_1st.Ch9.Counter_Border.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Payroll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TeamProject.Payroll" />
       <module name="Programming Methodology" />
@@ -143,38 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week12.String3" />
+    <configuration name="StarterBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week11.Ball.StarterBall" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week12.String4" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week12.String5" />
-      <module name="Programming Methodology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week12.*" />
+          <option name="PATTERN" value="Week11.Ball.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +199,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.StarterBall" />
+      <item itemvalue="Application.CounterStarter" />
+      <item itemvalue="Application.Final_1st.Ch9.Counter_Border.CounterStarter" />
       <item itemvalue="Application.Payroll" />
-      <item itemvalue="Application.String3" />
-      <item itemvalue="Application.String4" />
-      <item itemvalue="Application.String5" />
       <item itemvalue="Application.PuzzleStarter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StarterBall" />
+        <item itemvalue="Application.Final_1st.Ch9.Counter_Border.CounterStarter" />
+        <item itemvalue="Application.CounterStarter" />
         <item itemvalue="Application.Payroll" />
         <item itemvalue="Application.PuzzleStarter" />
-        <item itemvalue="Application.String5" />
-        <item itemvalue="Application.String4" />
-        <item itemvalue="Application.String3" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +241,8 @@
       <workItem from="1729438241307" duration="7255000" />
       <workItem from="1730148285993" duration="10837000" />
       <workItem from="1730730168942" duration="12745000" />
-      <workItem from="1732106377421" duration="16088000" />
+      <workItem from="1732106377421" duration="24886000" />
+      <workItem from="1733390992254" duration="6527000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
