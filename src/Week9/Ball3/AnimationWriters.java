@@ -17,7 +17,7 @@ public class AnimationWriters extends JPanel {
         ball_writer = l;
         JFrame f = new JFrame();
         f.getContentPane().add(this);
-        f.setTitle("Bounce");
+        f.setTitle("Bounce2Ball");
         f.setSize(size, size+22);
         f.setVisible(true);
         f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);

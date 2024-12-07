@@ -1,20 +1,21 @@
-package Week9.Ball1;
+package Final_2nd.Ch6.Bounce2Ball;
 
 import javax.swing.*;
 import java.awt.*;
 
-/* AnimationWriter 상자와 공의 애니메이션 디스플레이 */
+/** AnimationWriter 상자와 공의 애니메이션 디스플레이 */
 public class AnimationWriter extends JPanel {
     private BoxWriter box_writer; // 상자 그리는 객체
-    private BallWriter ball_writer; // 공 그리는 객체
+    private BallWriters ball_writers; // 공 그리는 객체
 
-    /* Constructor AnimationWriter 상자와 공을 그리는 View 객체를 생성
+    /** Constructor AnimationWriter 상자와 공을 그리는 View 객체를 생성
      * @param b 상자 그리는 객체
      * @param l 공 그리는 객체
-     * @param size 프레임의 객체 */
-    public AnimationWriter(BoxWriter b, BallWriter l, int size) {
+     * @param size 프레임의 크기
+     */
+    public AnimationWriter(BoxWriter b, BallWriters l, int size) {
         box_writer = b;
-        ball_writer = l;
+        ball_writers = l;
         JFrame f = new JFrame();
         f.getContentPane().add(this);
         f.setTitle("Bounce2Ball");
@@ -23,10 +24,11 @@ public class AnimationWriter extends JPanel {
         f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     }
 
-    /* paintComponent 공과 상자 그리기
-     * @param g 그래픽스 펜 */
+    /** paintComponent 공과 상자 그리기
+     * @param g 그래픽스 펜
+     */
     public void paintComponent(Graphics g) {
         box_writer.paintComponent(g);
-        ball_writer.paintComponent(g);
+        ball_writers.paintComponent(g);
     }
 }

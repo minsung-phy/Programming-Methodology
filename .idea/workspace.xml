@@ -5,25 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/CounterButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/CounterFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/CounterStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border/ExitButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/CounterButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/CounterFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Flow/CounterStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ColorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_1st/Ch9/Throb/ThrobbingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/File1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/File2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/File3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/PuzzleGameGUI2/PuzzleButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/PuzzleGameGUI2/PuzzleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/PuzzleGameGUI2/PuzzlePiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/PuzzleGameGUI2/PuzzleStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/PuzzleGameGUI2/SlidePuzzleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/PuzzleGameGUI2/StartButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/StandIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/StringImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch10/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce/AnimationWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce/BallWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce/BounceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce/BounceTheBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce/BoxWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce/MovingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce2Ball/AnimationWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce2Ball/BallWriters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce2Ball/BounceControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce2Ball/BounceTwoBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce2Ball/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce2Ball/BoxWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/Bounce2Ball/MovingBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/ChessBoardWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/ClassManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/ClassManagement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/TextSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch6/multiplicationTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/CardGame/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/CardGame/CardDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/CardGame/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/PuzzleGame/PuzzleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/PuzzleGame/PuzzlePiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/PuzzleGame/PuzzleStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/PuzzleGame/PuzzleWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/PuzzleGame/SlidePuzzleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch7/VoteCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch8/BankAccount1/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch8/BankAccount1/BankAccountSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch8/BankAccount1/MortgagePaymentCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch8/BankAccount2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch8/BankAccount2/IntegerKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch8/BankAccount2/Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch8/BankAccount2/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border/CountButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border/CounterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border/CounterFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border/CounterStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border/ExitButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Flow/CountButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Flow/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Flow/CounterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Flow/CounterFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Flow/CounterStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/PuzzleGameGUI1/PuzzleButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/PuzzleGameGUI1/PuzzleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/PuzzleGameGUI1/PuzzlePiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/PuzzleGameGUI1/PuzzleStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/PuzzleGameGUI1/SlidePuzzleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/ScrollingList/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/ScrollingList/Counter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/ScrollingList/ExitButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/ScrollingList/ListButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/ScrollingList/ListFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final_2nd/Ch9/ScrollingList/ScrollingList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Final_1st/Ch6/Bounce/AnimationWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final_1st/Ch6/Bounce/AnimationWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Final_1st/Ch6/Bounce_2Ball/AnimationWriters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Final_1st/Ch6/Bounce_2Ball/AnimationWriters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/Ball/AnimationWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball/AnimationWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/Ball1/AnimationWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball1/AnimationWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/Ball2/AnimationWriters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball2/AnimationWriters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week9/Ball3/AnimationWriters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week9/Ball3/AnimationWriters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +93,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -56,13 +117,15 @@
   "keyToString": {
     "Application.AccountManager.executor": "Run",
     "Application.BankAccount.executor": "Run",
-    "Application.BounceTheBall.executor": "Debug",
+    "Application.BounceTheBall.executor": "Run",
     "Application.BounceTwoBalls.executor": "Run",
     "Application.Canvas.executor": "Run",
     "Application.CelsiusToFahrenheit.executor": "Run",
     "Application.Change.executor": "Run",
     "Application.CharacterDemo.executor": "Run",
     "Application.Christmas.executor": "Run",
+    "Application.ClassManagement.executor": "Run",
+    "Application.ClassManagement2.executor": "Run",
     "Application.Clock.executor": "Run",
     "Application.ClockWriter.executor": "Run",
     "Application.CoinCalculator.executor": "Run",
@@ -72,12 +135,24 @@
     "Application.DiceGame.executor": "Run",
     "Application.DivisibleBy9.executor": "Run",
     "Application.DivisibleBy9Hard.executor": "Run",
+    "Application.Exception2.executor": "Run",
+    "Application.File1.executor": "Run",
+    "Application.File2.executor": "Run",
+    "Application.File3.executor": "Run",
     "Application.Final_1st.Ch9.Counter_Border.CounterStarter.executor": "Run",
+    "Application.Final_2nd.Ch10.PuzzleGameGUI2.PuzzleStarter.executor": "Run",
+    "Application.Final_2nd.Ch6.Bounce2Ball.BounceTheBall.executor": "Run",
+    "Application.Final_2nd.Ch7.PuzzleGame.PuzzleStarter.executor": "Run",
+    "Application.Final_2nd.Ch9.Counter_Border.CounterStarter.executor": "Run",
+    "Application.Final_2nd.Ch9.PuzzleGameGUI.PuzzleStarter.executor": "Run",
+    "Application.Final_2nd.exam_2021_sol.P1.Test1.executor": "Run",
     "Application.GrowingEgg1.executor": "Run",
     "Application.GrowingEgg2.executor": "Run",
     "Application.GrowingEgg2_2.executor": "Run",
     "Application.GrowingEgg3.executor": "Run",
     "Application.GrowingEgg3_2.executor": "Run",
+    "Application.GugudanFrame.executor": "Run",
+    "Application.Hand.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HelloWorldGUI.executor": "Run",
     "Application.MathDemo.executor": "Run",
@@ -85,16 +160,22 @@
     "Application.Newton.executor": "Run",
     "Application.Payroll.executor": "Run",
     "Application.PuzzleStarter.executor": "Run",
+    "Application.ScrollingList.executor": "Run",
     "Application.Slogan.executor": "Run",
+    "Application.StandIO.executor": "Run",
     "Application.StarterBall.executor": "Run",
     "Application.String4.executor": "Run",
     "Application.String5.executor": "Run",
     "Application.StringArr.executor": "Run",
     "Application.StringArr2.executor": "Run",
     "Application.StringArr3.executor": "Run",
+    "Application.StringImmutable.executor": "Run",
     "Application.TempConverter.executor": "Run",
     "Application.Temperature.executor": "Run",
+    "Application.Test1.executor": "Run",
     "Application.TestModel.executor": "Run",
+    "Application.TextSearch.executor": "Run",
+    "Application.Token.executor": "Run",
     "Application.VoteCount.executor": "Run",
     "Application.Week11.Puzzle.PuzzleStarter.executor": "Run",
     "Application.Week12.Puzzle.PuzzleStarter.executor": "Run",
@@ -106,7 +187,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Final_1st/Ch9",
+    "last_opened_file_path": "/Users/minsung/Documents/3학년 2학기/프로그램설계방법론/Programming Methodology/src/Final_2nd/Ch10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -122,23 +203,26 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Final_1st/Ch9" />
-      <recent name="$PROJECT_DIR$/src/Final_1st/Ch9/Counter_Border" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/TeamProject" />
-      <recent name="$PROJECT_DIR$/src/Week12" />
+      <recent name="$PROJECT_DIR$/src/Final_2nd/Ch10" />
+      <recent name="$PROJECT_DIR$/src/Final_2nd/Ch9/PuzzleGameGUI" />
+      <recent name="$PROJECT_DIR$/src/Final_2nd/Ch9/Counter_Border" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Final_2nd/Ch6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Final_2nd.Ch10" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.StarterBall">
-    <configuration name="CounterStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final_1st.Ch9.Counter_Flow.CounterStarter" />
+  <component name="RunManager" selected="Application.Exception2">
+    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final_2nd.Ch10.Exception2" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Final_1st.Ch9.Counter_Flow.*" />
+          <option name="PATTERN" value="Final_2nd.Ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Final_1st.Ch9.Counter_Border.CounterStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final_1st.Ch9.Counter_Border.CounterStarter" />
+    <configuration name="File1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final_2nd.Ch10.File1" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Final_1st.Ch9.Counter_Border.*" />
+          <option name="PATTERN" value="Final_2nd.Ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Payroll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TeamProject.Payroll" />
+    <configuration name="File2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final_2nd.Ch10.File2" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TeamProject.*" />
+          <option name="PATTERN" value="Final_2nd.Ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PuzzleStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week12.Puzzle.PuzzleStarter" />
+    <configuration name="File3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final_2nd.Ch10.File3" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week12.Puzzle.*" />
+          <option name="PATTERN" value="Final_2nd.Ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarterBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week11.Ball.StarterBall" />
+    <configuration name="StandIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Final_2nd.Ch10.StandIO" />
       <module name="Programming Methodology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week11.Ball.*" />
+          <option name="PATTERN" value="Final_2nd.Ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,19 +283,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StarterBall" />
-      <item itemvalue="Application.CounterStarter" />
-      <item itemvalue="Application.Final_1st.Ch9.Counter_Border.CounterStarter" />
-      <item itemvalue="Application.Payroll" />
-      <item itemvalue="Application.PuzzleStarter" />
+      <item itemvalue="Application.Exception2" />
+      <item itemvalue="Application.File1" />
+      <item itemvalue="Application.File2" />
+      <item itemvalue="Application.File3" />
+      <item itemvalue="Application.StandIO" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StarterBall" />
-        <item itemvalue="Application.Final_1st.Ch9.Counter_Border.CounterStarter" />
-        <item itemvalue="Application.CounterStarter" />
-        <item itemvalue="Application.Payroll" />
-        <item itemvalue="Application.PuzzleStarter" />
+        <item itemvalue="Application.Exception2" />
+        <item itemvalue="Application.StandIO" />
+        <item itemvalue="Application.File3" />
+        <item itemvalue="Application.File2" />
+        <item itemvalue="Application.File1" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +326,7 @@
       <workItem from="1730148285993" duration="10837000" />
       <workItem from="1730730168942" duration="12745000" />
       <workItem from="1732106377421" duration="24886000" />
-      <workItem from="1733390992254" duration="6527000" />
+      <workItem from="1733390992254" duration="45946000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
