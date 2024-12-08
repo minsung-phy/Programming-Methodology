@@ -1,4 +1,4 @@
-package Final_2nd.exam_2021.Problem1;
+package Final_2nd.Final_2021.Problem1;
 
 import java.io.*;
 

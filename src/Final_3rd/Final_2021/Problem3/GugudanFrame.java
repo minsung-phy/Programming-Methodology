@@ -1,21 +1,18 @@
-package Final_2nd.exam_2021.Problem3;
-
+package Final_3rd.Final_2021.Problem3;
 
 import java.awt.*;
+import java.awt.event.*;
 import javax.swing.*;
 
 public class GugudanFrame extends JFrame {
 
 	private DigitButton1[] digits1 = new DigitButton1[8];
 	private DigitButton2[] digits2 = new DigitButton2[8];
-	private static JLabel solution = new JLabel();
-	private static JLabel ox = new JLabel();
+	private JLabel solution = new JLabel();
+	private JLabel ox = new JLabel();
 	private int first = 0;
 	// (first == 0) - DigitButton1을 아직 누르지 않았음
 	// (first != 0) - DigitButton1을 눌렀음
-
-	private static int a = 0;
-	private static int b = 0;
 
 	public GugudanFrame() {
 		Container cp = getContentPane();
@@ -65,37 +62,39 @@ public class GugudanFrame extends JFrame {
 	public void question() {
 		int first = (int)(Math.random() * 8) + 2;
 		int second = (int)(Math.random() * 8) + 2;
-
 		// 해답을 쓰고
-		// 정오답 여부는 빈칸으로
 		solution.setText(first * second + "");
+		// 정오답 여부는 빈칸으로
 		ox.setText("");
 	}
 
 	public void clicked1(int digit) {
-		digits1[first] = new DigitButton1(digit, this);
-		if (first == 0)
-			a = digit;
-		first += 1;
+		// 맨 윗 줄의 숫자를 클릭
+		if (first == 0) {
+			digits1[0] = new DigitButton1(digit, this);
+			first++;
+		}
+		first++;
 	}
 
 	public void clicked2(int digit) {
+		// 아랫 줄의 숫자를 클릭
 		if (first > 0) {
 			digits2[0] = new DigitButton2(digit, this);
-			b = digit;
-			String s = solution.getText();
-			int sol = Integer.parseInt(s);
-			int my_sol = a * b;
-			if (sol == my_sol)
+			int my_sol = Integer.parseInt(digits1[0].getText()) * digit;
+			int sol = Integer.parseInt(solution.getText());
+			if (my_sol == sol) {
 				ox.setText("정답");
-			else
+			}
+			else {
 				ox.setText("오답");
+			}
 			first = 0;
 		}
 	}
 
 	public static void main(String[] args) {
-        new GugudanFrame();
+		new GugudanFrame();
 	}
 
 }

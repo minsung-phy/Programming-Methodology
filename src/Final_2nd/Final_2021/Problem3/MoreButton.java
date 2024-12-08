@@ -1,4 +1,4 @@
-package Final_2nd.exam_2021.Problem3;
+package Final_2nd.Final_2021.Problem3;
 
 import java.awt.event.*;
 import javax.swing.*;
