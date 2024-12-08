@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01">
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball1/AnimationWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball1/BallWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball1/BounceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball1/BounceTheBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball1/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball1/BoxWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball1/MovingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball2/AnimationWriters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball2/BallWriters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball2/BounceControllers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball2/BounceTwoBalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball2/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball2/BoxWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/Ball2/MovingBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch6/ChessBoardWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch7/PuzzleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch7/PuzzlePiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch7/PuzzleStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch7/PuzzleWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch7/SlidePuzzleBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch9/ScrollingList/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch9/ScrollingList/Counter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch9/ScrollingList/ExitButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch9/ScrollingList/ListButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch9/ScrollingList/ListFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final_3rd/Ch9/ScrollingList/ScrollingList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ff7c3c8b-cabc-4666-8fb0-c02e3db74bc7" name="Changes" comment="dev : Lab01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -280,7 +252,7 @@
       <workItem from="1730730168942" duration="12745000" />
       <workItem from="1732106377421" duration="24886000" />
       <workItem from="1733390992254" duration="60863000" />
-      <workItem from="1733656336109" duration="16457000" />
+      <workItem from="1733656336109" duration="16743000" />
     </task>
     <task id="LOCAL-00001" summary="dev : Lab01">
       <option name="closed" value="true" />
